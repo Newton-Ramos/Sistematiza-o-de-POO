@@ -257,6 +257,7 @@ public class GerenciamentoDeFuncionarios {
                     exibirTodosFuncionarios();
                     break;
                 case 5:
+                    
                     System.out.println("Sistema encerrado.");
                     scanner.close();
                     System.exit(0);
