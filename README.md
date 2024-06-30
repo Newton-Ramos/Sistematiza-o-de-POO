@@ -1,4 +1,3 @@
-=============================
 PROJETO CARTÃO DE IDENTIFICAÇÃO DOS FUNCIONÁRIOS - EMPRESA MGS
 =============================
 
