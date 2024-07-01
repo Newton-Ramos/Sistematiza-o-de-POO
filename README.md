@@ -31,10 +31,11 @@ Este projeto em Java oferece uma aplicação para gerenciar informações de fun
 
 ### EXECUÇÃO
 -----------------------------
-1. Clone o repositório do projeto: 
 ```bash
+1. Clone o repositório do projeto: 
+
     git clone https://github.com/Newton-Ramos/Sistematizacao-de-POO
-    ```
+    
 
 2. Abra o projeto na sua IDE.
 
