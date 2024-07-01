@@ -67,9 +67,9 @@ Este projeto em Java oferece uma aplicação para gerenciar informações de fun
 
 ## LINKS IMPORTANTES
 =============================
-- Repositório no GitHub: (https://github.com/Newton-Ramos/Sistematizacao-de-POO.git)
+- Repositório no GitHub: https://github.com/Newton-Ramos/Sistematizacao-de-POO.git
 
-- Vídeo de Apresentação: (https://drive.google.com/file/d/198PvIisv6dR9Ll-__eHSjj94VVddh6dK/view?usp=drive_link)
+- Vídeo de Apresentação: https://drive.google.com/file/d/198PvIisv6dR9Ll-__eHSjj94VVddh6dK/view?usp=drive_link
 
 - Google Drive com o Trabalho Completo: https://drive.google.com/drive/folders/1vBBM0f92VYSuozfp2iVRgxMRFwGkuPZo
 =============================
