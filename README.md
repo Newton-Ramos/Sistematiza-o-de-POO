@@ -77,6 +77,6 @@ Este projeto em Java oferece uma aplicação para gerenciar informações de fun
 =============================
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 =============================
-Desenvolvido por Newton Ramos Chaves Junior - RA: 72400904
+Desenvolvido por: Newton Ramos Chaves Junior - RA: 72400904
 Disciplina: Programação Orientada a Objetos – Turma: B
 =============================
